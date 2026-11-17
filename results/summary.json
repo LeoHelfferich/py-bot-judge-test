@@ -1,0 +1,144 @@
+{
+ "n_prompts": 300,
+ "judges": {
+  "deepseek": {
+   "calls": 1900,
+   "unparsed": 0,
+   "cost_usd": 0.0861,
+   "pybot": {
+    "winrate_orig_lenpen": 0.2703,
+    "ci95": [
+     0.2223,
+     0.3218
+    ],
+    "winrate_orig_raw": 0.2736,
+    "winrate_swap_lenpen": 0.2723,
+    "winrate_order_avg_lenpen": 0.2713,
+    "binary_wins_orig": 80,
+    "n": 300,
+    "swap_flip_rate": 0.0433,
+    "swap_flips": 13,
+    "swap_mean_abs_diff": 0.0491,
+    "mean_gain_when_reply_shown_first": -0.0242,
+    "repeat_flip_rate": 0.0467,
+    "repeat_flips": 14,
+    "repeat_mean_abs_diff": 0.053,
+    "length_penalty_applied": 2
+   },
+   "smollm": {
+    "winrate_orig_lenpen": 0.2513,
+    "ci95": [
+     0.2219,
+     0.2824
+    ],
+    "winrate_orig_raw": 0.4187,
+    "winrate_swap_lenpen": 0.2648,
+    "winrate_order_avg_lenpen": 0.258,
+    "binary_wins_orig": 14,
+    "n": 300,
+    "swap_flip_rate": 0.0233,
+    "swap_flips": 7,
+    "swap_mean_abs_diff": 0.082,
+    "mean_gain_when_reply_shown_first": -0.0572,
+    "repeat_flip_rate": 0.0067,
+    "repeat_flips": 2,
+    "repeat_mean_abs_diff": 0.0458,
+    "length_penalty_applied": 108
+   },
+   "pybot_unrelated": {
+    "n": 50,
+    "mean_score": 0.0215,
+    "judged_better_than_reference": 1,
+    "same_prompts_real_reply_mean": 0.2476,
+    "same_prompts_real_reply_wins": 13
+   },
+   "smollm_unrelated": {
+    "n": 50,
+    "mean_score": 0.0,
+    "judged_better_than_reference": 0,
+    "same_prompts_real_reply_mean": 0.4259,
+    "same_prompts_real_reply_wins": 21
+   }
+  },
+  "qwen": {
+   "calls": 1900,
+   "unparsed": 0,
+   "cost_usd": 0.1255,
+   "pybot": {
+    "winrate_orig_lenpen": 0.2408,
+    "ci95": [
+     0.1991,
+     0.2862
+    ],
+    "winrate_orig_raw": 0.2442,
+    "winrate_swap_lenpen": 0.2357,
+    "winrate_order_avg_lenpen": 0.2383,
+    "binary_wins_orig": 70,
+    "n": 300,
+    "swap_flip_rate": 0.05,
+    "swap_flips": 15,
+    "swap_mean_abs_diff": 0.046,
+    "mean_gain_when_reply_shown_first": -0.0207,
+    "repeat_flip_rate": 0.01,
+    "repeat_flips": 3,
+    "repeat_mean_abs_diff": 0.0192,
+    "length_penalty_applied": 2
+   },
+   "smollm": {
+    "winrate_orig_lenpen": 0.2774,
+    "ci95": [
+     0.2472,
+     0.3062
+    ],
+    "winrate_orig_raw": 0.416,
+    "winrate_swap_lenpen": 0.2631,
+    "winrate_order_avg_lenpen": 0.2702,
+    "binary_wins_orig": 16,
+    "n": 300,
+    "swap_flip_rate": 0.02,
+    "swap_flips": 6,
+    "swap_mean_abs_diff": 0.1129,
+    "mean_gain_when_reply_shown_first": 0.1727,
+    "repeat_flip_rate": 0.0067,
+    "repeat_flips": 2,
+    "repeat_mean_abs_diff": 0.0242,
+    "length_penalty_applied": 104
+   },
+   "pybot_unrelated": {
+    "n": 50,
+    "mean_score": 0.0234,
+    "judged_better_than_reference": 1,
+    "same_prompts_real_reply_mean": 0.2746,
+    "same_prompts_real_reply_wins": 14
+   },
+   "smollm_unrelated": {
+    "n": 50,
+    "mean_score": 0.0005,
+    "judged_better_than_reference": 0,
+    "same_prompts_real_reply_mean": 0.4104,
+    "same_prompts_real_reply_wins": 21
+   }
+  }
+ },
+ "inter_judge": {
+  "pybot": {
+   "n": 300,
+   "agreement": 0.92,
+   "cohen_kappa": 0.7906,
+   "both_say_reply_better": 65,
+   "only_deepseek": 17,
+   "only_qwen": 7,
+   "pearson": 0.8316
+  },
+  "smollm": {
+   "n": 300,
+   "agreement": 0.8267,
+   "cohen_kappa": 0.6399,
+   "both_say_reply_better": 95,
+   "only_deepseek": 27,
+   "only_qwen": 25,
+   "pearson": 0.7192
+  }
+ },
+ "total_cost_usd": 0.2116
+}

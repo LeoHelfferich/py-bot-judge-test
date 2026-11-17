@@ -1,0 +1,497 @@
+[
+ {
+  "id": 1,
+  "language": "de",
+  "dataset": "CohereLabs/aya_evaluation_suite (dolly_machine_translated, deu)",
+  "prompt": "Was sind 5 Möglichkeiten, Äpfel zu essen?",
+  "pybot": "I don't know enough to answer that honestly. A search should sort you out quickly — and I'm happy to help with the rest of it.",
+  "pybot_module": "greeting",
+  "judged": false
+ },
+ {
+  "id": 2,
+  "language": "de",
+  "dataset": "CohereLabs/aya_evaluation_suite (dolly_machine_translated, deu)",
+  "prompt": "Wie entkommt man aus einem im Wasser gefangenen Hubschrauber?",
+  "pybot": "That's beyond what I know well, sorry. Searching for it will turn up better sources than I can offer; tell me what you find and I'll help you weigh it up.",
+  "pybot_module": "greeting",
+  "judged": false
+ },
+ {
+  "id": 3,
+  "language": "de",
+  "dataset": "CohereLabs/aya_evaluation_suite (dolly_machine_translated, deu)",
+  "prompt": "Gib eine Liste der Möglichkeiten an, wie Musiker mit ihrem Musikhandwerk Einkommen verdienen können.",
+  "pybot": "Go on - what's been happening?",
+  "pybot_module": "first_line_open",
+  "judged": false
+ },
+ {
+  "id": 4,
+  "language": "de",
+  "dataset": "CohereLabs/aya_evaluation_suite (dolly_machine_translated, deu)",
+  "prompt": "Wie kann man eine Dose öffnen, ohne die Hände zu benutzen?",
+  "pybot": "A pharmacist or your GP can answer that today. Tell me what they say and I'll help you weigh it up.",
+  "pybot_module": "greeting",
+  "judged": false
+ },
+ {
+  "id": 5,
+  "language": "de",
+  "dataset": "CohereLabs/aya_evaluation_suite (dolly_machine_translated, deu)",
+  "prompt": "Was könnte ich einem neugierigen Kleinkind schenken?",
+  "pybot": "I'm not sure about that one, sorry — I'd rather not guess. A quick search online will get you a solid answer, and I can help you make sense of what you find.",
+  "pybot_module": "greeting",
+  "judged": false
+ },
+ {
+  "id": 6,
+  "language": "de",
+  "dataset": "CohereLabs/aya_evaluation_suite (dolly_machine_translated, deu)",
+  "prompt": "Wie kann ich meine Freundin, die gerade abserviert wurde, aufheitern?",
+  "pybot": "That's beyond what I know well, sorry. Searching for it will turn up better sources than I can offer; tell me what you find and I'll help you weigh it up.",
+  "pybot_module": "greeting",
+  "judged": false
+ },
+ {
+  "id": 7,
+  "language": "de",
+  "dataset": "CohereLabs/aya_evaluation_suite (dolly_machine_translated, deu)",
+  "prompt": "Fünf Horrorfilme für mich.",
+  "pybot": "What do you need? I'll take it from there.",
+  "pybot_module": "first_line_open",
+  "judged": false
+ },
+ {
+  "id": 8,
+  "language": "de",
+  "dataset": "CohereLabs/aya_evaluation_suite (dolly_machine_translated, deu)",
+  "prompt": "Kannst du mir helfen, Kreditkartenschulden zu vermeiden?",
+  "pybot": "I don't know enough to answer that honestly. A search should sort you out quickly — and I'm happy to help with the rest of it.",
+  "pybot_module": "greeting",
+  "judged": false
+ },
+ {
+  "id": 9,
+  "language": "de",
+  "dataset": "CohereLabs/aya_evaluation_suite (dolly_machine_translated, deu)",
+  "prompt": "Was sind gute Übungen für den Oberkörper?",
+  "pybot": "I don't know enough to answer that honestly. A search should sort you out quickly — and I'm happy to help with the rest of it.",
+  "pybot_module": "greeting",
+  "judged": false
+ },
+ {
+  "id": 10,
+  "language": "de",
+  "dataset": "CohereLabs/aya_evaluation_suite (dolly_machine_translated, deu)",
+  "prompt": "Welche Vorteile hätte es, wenn ich meinen Kopf wie eine Eule drehen könnte?",
+  "pybot": "I don't know enough to answer that honestly. A search should sort you out quickly — and I'm happy to help with the rest of it.",
+  "pybot_module": "greeting",
+  "judged": false
+ },
+ {
+  "id": 11,
+  "language": "de",
+  "dataset": "CohereLabs/aya_evaluation_suite (dolly_machine_translated, deu)",
+  "prompt": "5 Arten, wie Tiere kommunizieren",
+  "pybot": "What would be most useful to sort out?",
+  "pybot_module": "first_line_open",
+  "judged": false
+ },
+ {
+  "id": 12,
+  "language": "de",
+  "dataset": "CohereLabs/aya_evaluation_suite (dolly_machine_translated, deu)",
+  "prompt": "Was sind fünf lustige Ideen für ein erstes Date?",
+  "pybot": "That's beyond what I know well, sorry. Searching for it will turn up better sources than I can offer; tell me what you find and I'll help you weigh it up.",
+  "pybot_module": "greeting",
+  "judged": false
+ },
+ {
+  "id": 13,
+  "language": "de",
+  "dataset": "CohereLabs/aya_evaluation_suite (dolly_machine_translated, deu)",
+  "prompt": "Wie werde ich besser im Basketballschießen?",
+  "pybot": "I don't know enough to answer that honestly. A search should sort you out quickly — and I'm happy to help with the rest of it.",
+  "pybot_module": "greeting",
+  "judged": false
+ },
+ {
+  "id": 14,
+  "language": "de",
+  "dataset": "CohereLabs/aya_evaluation_suite (dolly_machine_translated, deu)",
+  "prompt": "Geben Sie mir eine Liste von Merkmalen eines guten Cafés?",
+  "pybot": "I don't know enough to answer that honestly. A search should sort you out quickly — and I'm happy to help with the rest of it.",
+  "pybot_module": "greeting",
+  "judged": false
+ },
+ {
+  "id": 15,
+  "language": "de",
+  "dataset": "CohereLabs/aya_evaluation_suite (dolly_machine_translated, deu)",
+  "prompt": "Gib mir fünf Möglichkeiten, wie ich mein hausgemachtes Bier interessanter machen kann.",
+  "pybot": "What would be most useful to sort out?",
+  "pybot_module": "first_line_open",
+  "judged": false
+ },
+ {
+  "id": 16,
+  "language": "de",
+  "dataset": "CohereLabs/aya_evaluation_suite (dolly_machine_translated, deu)",
+  "prompt": "Gib mir ein paar Möglichkeiten, mein Haus im Sommer kühl zu halten.",
+  "pybot": "Nice to meet you, Sommer. What can I help with?",
+  "pybot_module": "chat",
+  "judged": false
+ },
+ {
+  "id": 17,
+  "language": "de",
+  "dataset": "CohereLabs/aya_evaluation_suite (dolly_machine_translated, deu)",
+  "prompt": "Welche Formen bestehen aus geraden Linien?",
+  "pybot": "I don't know enough to answer that honestly. A search should sort you out quickly — and I'm happy to help with the rest of it.",
+  "pybot_module": "greeting",
+  "judged": false
+ },
+ {
+  "id": 18,
+  "language": "de",
+  "dataset": "CohereLabs/aya_evaluation_suite (dolly_machine_translated, deu)",
+  "prompt": "Wie können Sie den Wert Ihres Hauses verbessern?",
+  "pybot": "I'm not sure about that one, sorry — I'd rather not guess. A quick search online will get you a solid answer, and I can help you make sense of what you find.",
+  "pybot_module": "greeting",
+  "judged": false
+ },
+ {
+  "id": 19,
+  "language": "de",
+  "dataset": "CohereLabs/aya_evaluation_suite (dolly_machine_translated, deu)",
+  "prompt": "Hilf mir, drei Ideen für ein neues Geschäft zu finden und wie ich es starten kann.",
+  "pybot": "Look at the colour before you do anything. A white or creamy film on top, with no fur on it, is kahm yeast and the starter is fine: skim it off, move the jar to a clean one and feed it. Anything furry, or pink, orange, green or black, means mould has gone through the jar - throw it out and start again, because the spores are in the flour and not just on the surface. Wash the jar with hot soapy water before the next one, and keep the sides scraped down so nothing grows on the rim.",
+  "pybot_module": "answers",
+  "judged": false
+ },
+ {
+  "id": 20,
+  "language": "de",
+  "dataset": "CohereLabs/aya_evaluation_suite (dolly_machine_translated, deu)",
+  "prompt": "Welche Kleidungsstücke tragen die Menschen in den Sommermonaten häufig?",
+  "pybot": "I'm not sure about that one, sorry — I'd rather not guess. A quick search online will get you a solid answer, and I can help you make sense of what you find.",
+  "pybot_module": "greeting",
+  "judged": false
+ },
+ {
+  "id": 21,
+  "language": "de",
+  "dataset": "CohereLabs/aya_evaluation_suite (dolly_machine_translated, deu)",
+  "prompt": "Wie funktioniert eine mechanische Uhr?",
+  "pybot": "I don't know enough to answer that honestly. A search should sort you out quickly — and I'm happy to help with the rest of it.",
+  "pybot_module": "greeting",
+  "judged": false
+ },
+ {
+  "id": 22,
+  "language": "de",
+  "dataset": "CohereLabs/aya_evaluation_suite (dolly_machine_translated, deu)",
+  "prompt": "Welche Kriterien sollte ich beachten, wenn ich ein neues Motorrad kaufe?",
+  "pybot": "I don't know enough to answer that honestly. A search should sort you out quickly — and I'm happy to help with the rest of it.",
+  "pybot_module": "greeting",
+  "judged": false
+ },
+ {
+  "id": 23,
+  "language": "de",
+  "dataset": "CohereLabs/aya_evaluation_suite (dolly_machine_translated, deu)",
+  "prompt": "Was sind fünf völlig unterschiedliche, kreative Wege, um die Nützlichkeit eines untätigen Geistes zu beschreiben?",
+  "pybot": "I'm not sure about that one, sorry — I'd rather not guess. A quick search online will get you a solid answer, and I can help you make sense of what you find.",
+  "pybot_module": "greeting",
+  "judged": false
+ },
+ {
+  "id": 24,
+  "language": "de",
+  "dataset": "CohereLabs/aya_evaluation_suite (dolly_machine_translated, deu)",
+  "prompt": "Was sind einige Ideen zur Verringerung des Plastikverbrauchs",
+  "pybot": "I don't know enough to answer that honestly. A search should sort you out quickly — and I'm happy to help with the rest of it.",
+  "pybot_module": "greeting",
+  "judged": false
+ },
+ {
+  "id": 25,
+  "language": "de",
+  "dataset": "CohereLabs/aya_evaluation_suite (dolly_machine_translated, deu)",
+  "prompt": "Was sind die üblichen Schwimmschläge?",
+  "pybot": "I'm not sure about that one, sorry — I'd rather not guess. A quick search online will get you a solid answer, and I can help you make sense of what you find.",
+  "pybot_module": "greeting",
+  "judged": false
+ },
+ {
+  "id": 26,
+  "language": "de",
+  "dataset": "CohereLabs/aya_evaluation_suite (dolly_machine_translated, deu)",
+  "prompt": "Stimmt es oder nicht, dass Fische an Land leben?",
+  "pybot": "I'm not sure about that one, sorry — I'd rather not guess. A quick search online will get you a solid answer, and I can help you make sense of what you find.",
+  "pybot_module": "greeting",
+  "judged": false
+ },
+ {
+  "id": 27,
+  "language": "de",
+  "dataset": "CohereLabs/aya_evaluation_suite (dolly_machine_translated, deu)",
+  "prompt": "Gib an, ob es sich um Länder, Städte, Kontinente oder gar keine handelt: Australien, Mexiko, Mexiko-Stadt, Antarktis, Singapur, Indien, Golf, Peking, Jakarta, Luxemburg, Vatikanstadt",
+  "pybot": "I'm listening — say more if it helps.",
+  "pybot_module": "greeting",
+  "judged": false
+ },
+ {
+  "id": 28,
+  "language": "de",
+  "dataset": "CohereLabs/aya_evaluation_suite (dolly_machine_translated, deu)",
+  "prompt": "Welche ist eine Fischarte? Zehn- oder Neun-Pfund",
+  "pybot": "I'm not sure about that one, sorry — I'd rather not guess. A quick search online will get you a solid answer, and I can help you make sense of what you find.",
+  "pybot_module": "greeting",
+  "judged": false
+ },
+ {
+  "id": 29,
+  "language": "de",
+  "dataset": "CohereLabs/aya_evaluation_suite (dolly_machine_translated, deu)",
+  "prompt": "Welche ist eine Fischarte? Trostlos oder müde",
+  "pybot": "I don't know enough to answer that honestly. A search should sort you out quickly — and I'm happy to help with the rest of it.",
+  "pybot_module": "greeting",
+  "judged": false
+ },
+ {
+  "id": 30,
+  "language": "de",
+  "dataset": "CohereLabs/aya_evaluation_suite (dolly_machine_translated, deu)",
+  "prompt": "Klassifizieren Sie jedes der folgenden Tiere als Fleischfresser, Allesfresser oder Pflanzenfresser: Tiger, Bär, Giraffe, Wolverine, Elefant, Affe",
+  "pybot": "What would be most useful to sort out?",
+  "pybot_module": "first_line_open",
+  "judged": false
+ },
+ {
+  "id": 31,
+  "language": "de",
+  "dataset": "CohereLabs/aya_evaluation_suite (dolly_machine_translated, deu)",
+  "prompt": "Auf einem Flug kann ich nur drei der folgenden Gegenstände mitnehmen: Schwert, Buch, Telefon, Koffer, Papagei, Flugzeug. Welche soll ich packen?",
+  "pybot": "I don't know enough to answer that honestly. A search should sort you out quickly — and I'm happy to help with the rest of it.",
+  "pybot_module": "greeting",
+  "judged": false
+ },
+ {
+  "id": 32,
+  "language": "de",
+  "dataset": "CohereLabs/aya_evaluation_suite (dolly_machine_translated, deu)",
+  "prompt": "Klassifizieren Sie die folgenden natürlichen Satelliten, je nachdem, ob es sich um Monde des Mars oder des Jupiter handelt. Phobos, Deimos, Europa, Ganymedes",
+  "pybot": "I'm listening — say more if it helps.",
+  "pybot_module": "greeting",
+  "judged": false
+ },
+ {
+  "id": 33,
+  "language": "de",
+  "dataset": "CohereLabs/aya_evaluation_suite (dolly_machine_translated, deu)",
+  "prompt": "Welche der folgenden Kleidungsstücke sind Strandbekleidung und welche Kleidungsstücke würde man auf einer kalten Winterwanderung tragen? Wenn es gemeinsame Elemente gibt, erstellen Sie eine dritte Kategorie mit dem Namen \"Gemeinsam\":  Socken Hüte Hals-Gitter Sonnenbrille Badeanzüge Unterhemden Vertuschung Daunenjacke Streckenstangen Wasserschuhe Schal Sandalen",
+  "pybot": "Pick something they would use every week and would not buy themselves: good coffee and a proper mug, woolly socks, a decent notebook, or a voucher for the thing they always say they will do. If you know what they are into, buy into it - a good knife for someone who cooks, a head torch for a runner, secateurs for a gardener - and put a real message in the card, which does half the work.",
+  "pybot_module": "answers",
+  "judged": false
+ },
+ {
+  "id": 34,
+  "language": "de",
+  "dataset": "CohereLabs/aya_evaluation_suite (dolly_machine_translated, deu)",
+  "prompt": "Klassifizieren Sie jedes der folgenden Gegenstände, unabhängig davon, ob sie die Sehkraft verbessern oder beeinträchtigen: Brille, Fernglas, Augenbinde, Schlafmaske, Teleskop",
+  "pybot": "What would be most useful to sort out?",
+  "pybot_module": "first_line_open",
+  "judged": false
+ },
+ {
+  "id": 35,
+  "language": "de",
+  "dataset": "CohereLabs/aya_evaluation_suite (dolly_machine_translated, deu)",
+  "prompt": "Die folgenden Weine sind als Rotweine oder Weißweine einzureihen: Cabernet Sauvignon, Pinot Blanc, Riesling, Chardonnay, Pinot Grigio, Sauvignon Blanc, Merlot, Syrah, Shiraz",
+  "pybot": "Go on - what's been happening?",
+  "pybot_module": "first_line_open",
+  "judged": false
+ },
+ {
+  "id": 36,
+  "language": "de",
+  "dataset": "CohereLabs/aya_evaluation_suite (dolly_machine_translated, deu)",
+  "prompt": "Sagen Sie mir, ob jedes von diesen Grün oder Gelb ist: Zitrone, Lime, Käse, Spinat, Salat, Spaghetti",
+  "pybot": "I'm listening — say more if it helps.",
+  "pybot_module": "greeting",
+  "judged": false
+ },
+ {
+  "id": 37,
+  "language": "de",
+  "dataset": "CohereLabs/aya_evaluation_suite (dolly_machine_translated, deu)",
+  "prompt": "Für jedes dieser Länder angeben, ob es in der westlichen Hemisphäre, der östlichen Hemisphäre oder in beiden liegt: Thailand, Vereinigtes Königreich, Belize, Japan, Algerien",
+  "pybot": "What would be most useful to sort out?",
+  "pybot_module": "first_line_open",
+  "judged": false
+ },
+ {
+  "id": 38,
+  "language": "de",
+  "dataset": "CohereLabs/aya_evaluation_suite (dolly_machine_translated, deu)",
+  "prompt": "Welche dieser Farben sind die Primärfarben: Rot, Gelb, Blau, Orange, Grün, Violett.",
+  "pybot": "Lemons and limes keep a couple of weeks in the fridge in a bag in the salad drawer, or about a week on the counter. A cut half keeps 3 days wrapped cut side down, and a hard one gives more juice after 20 seconds in the microwave.",
+  "pybot_module": "answers",
+  "judged": false
+ },
+ {
+  "id": 39,
+  "language": "de",
+  "dataset": "CohereLabs/aya_evaluation_suite (dolly_machine_translated, deu)",
+  "prompt": "Klassifizieren Sie diese Gegenstände als essbar oder nicht essbar: Pizza, Pantoffel, Kuchen, Banane, Keks, Schuh, Bleistift, Kreide, Soda, Saft, Fernseher, Computer, Spiegel, Getreide, Reis",
+  "pybot": "Plug in a USB keyboard: if that types, the laptop's own keyboard is the fault, and a restart plus the maker's keyboard driver from their support page fixes it more often than not. If the keys that fail are a block of them, look for a sticky key or a spill; on a Mac, check System Settings > Keyboard.",
+  "pybot_module": "answers",
+  "judged": false
+ },
+ {
+  "id": 40,
+  "language": "de",
+  "dataset": "CohereLabs/aya_evaluation_suite (dolly_machine_translated, deu)",
+  "prompt": "Sie fahren mit dem Fahrrad zum Laden und Ihr Fahrrad hat einen Korb. Welche der folgenden Gegenstände können Sie mit nach Hause nehmen? eine Zahnbürste, einen Fernseher, eine Seife, eine Hose, ein Paar Skier, ein Brot, einen Tiger, einen Telefonladegerät",
+  "pybot": "I'm not sure about that one, sorry — I'd rather not guess. A quick search online will get you a solid answer, and I can help you make sense of what you find.",
+  "pybot_module": "greeting",
+  "judged": false
+ },
+ {
+  "id": 41,
+  "language": "de",
+  "dataset": "CohereLabs/aya_evaluation_suite (dolly_machine_translated, deu)",
+  "prompt": "Klassifiziere jedes der folgenden Instrumente als Streicher oder Keyboard: Gitarre, Geige, Klavier, Harmonium, Cello, Akkordeon, Banjo",
+  "pybot": "Go on - what's been happening?",
+  "pybot_module": "first_line_open",
+  "judged": false
+ },
+ {
+  "id": 42,
+  "language": "de",
+  "dataset": "CohereLabs/aya_evaluation_suite (dolly_machine_translated, deu)",
+  "prompt": "Wählen Sie aus, ob diese nützlich oder nicht nützlich für einen High-School-Schüler in seinen Rucksack sind. Notizbücher, Lehrbücher, Schreibtischlampe, Bleistiftbeutel, Strandball, Kissen, Laptop.",
+  "pybot": "For essays, video calls and Netflix, almost anything current works: 8GB RAM, a 256GB SSD and a 14 inch screen, around £400 to £550. A Chromebook is fine if everything lives in Google Docs, but avoid it for a course that needs Windows software.",
+  "pybot_module": "answers",
+  "judged": false
+ },
+ {
+  "id": 43,
+  "language": "de",
+  "dataset": "CohereLabs/aya_evaluation_suite (dolly_machine_translated, deu)",
+  "prompt": "Sagen Sie mir, ob das hier Tiere sind oder nicht: Alligator, Gras, Baum, Boot, Delphin, Hai, Fisch, Zaun, Hund, Auto",
+  "pybot": "I'm listening — say more if it helps.",
+  "pybot_module": "greeting",
+  "judged": false
+ },
+ {
+  "id": 44,
+  "language": "de",
+  "dataset": "CohereLabs/aya_evaluation_suite (dolly_machine_translated, deu)",
+  "prompt": "Kategorisieren Sie jedes der folgenden Produkte als \"würzig\", \"nicht gewürzt\" oder \"manchmal gewürzt\": Jalapenos, Chilis, Sriracha, Chips, Pizza, Cocktails, Obst, Milch",
+  "pybot": "I'm listening — say more if it helps.",
+  "pybot_module": "greeting",
+  "judged": false
+ },
+ {
+  "id": 45,
+  "language": "de",
+  "dataset": "CohereLabs/aya_evaluation_suite (dolly_machine_translated, deu)",
+  "prompt": "Welches der folgenden Länder gehört zur Europäischen Union: Niederlande, Schweiz, Deutschland, Finnland, Vereinigtes Königreich, Italien, Luxemburg, Türkei, Australien, Vietnam, Kanada.",
+  "pybot": "What would be most useful to sort out?",
+  "pybot_module": "first_line_open",
+  "judged": false
+ },
+ {
+  "id": 46,
+  "language": "de",
+  "dataset": "CohereLabs/aya_evaluation_suite (dolly_machine_translated, deu)",
+  "prompt": "Klassifizieren Sie jedes Land als Binnenland oder nicht Binnenland: China, Bolivien, Paraguay, Marokko, Irland, Österreich, Schweiz",
+  "pybot": "What do you need? I'll take it from there.",
+  "pybot_module": "first_line_open",
+  "judged": false
+ },
+ {
+  "id": 47,
+  "language": "de",
+  "dataset": "CohereLabs/aya_evaluation_suite (dolly_machine_translated, deu)",
+  "prompt": "Kategorisieren Sie jedes der folgenden Dinge als vorteilhaft oder nicht vorteilhaft, um ein Haus vor Einbruch zu schützen: Alarmanlage, offene Türen, Schlösser, Kameras, offene Fenster",
+  "pybot": "I'm listening — say more if it helps.",
+  "pybot_module": "greeting",
+  "judged": false
+ },
+ {
+  "id": 48,
+  "language": "de",
+  "dataset": "CohereLabs/aya_evaluation_suite (dolly_machine_translated, deu)",
+  "prompt": "Welche der folgenden Arten von Immobilienvermögenswerten sind: Einfamilienhäuser, Mehrfamilienhäuser, Wohnungen, Eigentumswohnungen, Stadthäuser, Steine, Schmutz, Autos, Diamanten, Gold, Land, Wasser, Türen.",
+  "pybot": "Go on - what's been happening?",
+  "pybot_module": "first_line_open",
+  "judged": false
+ },
+ {
+  "id": 49,
+  "language": "de",
+  "dataset": "CohereLabs/aya_evaluation_suite (dolly_machine_translated, deu)",
+  "prompt": "Ist eine Tomate eine Frucht oder ein Gemüse?",
+  "pybot": "I'm not sure about that one, sorry — I'd rather not guess. A quick search online will get you a solid answer, and I can help you make sense of what you find.",
+  "pybot_module": "greeting",
+  "judged": false
+ },
+ {
+  "id": 50,
+  "language": "de",
+  "dataset": "CohereLabs/aya_evaluation_suite (dolly_machine_translated, deu)",
+  "prompt": "Klassifizieren Sie die folgende Liste in Säugetiere und Nichtsäugetiere: Hund, Mensch, Ameise, Vogel, Katze, Delphin, Schwein, Kuh, Garnelen, Koralle, Hai, Honigbiene, Capybara",
+  "pybot": "I'm listening — say more if it helps.",
+  "pybot_module": "greeting",
+  "judged": false
+ },
+ {
+  "id": 51,
+  "language": "de",
+  "dataset": "CohereLabs/aya_evaluation_suite (dolly_machine_translated, deu)",
+  "prompt": "Angesichts eines Referenztextes über 341 George Street, Sydney, sagen Sie mir, wann welche Firmen dort ihren Hauptsitz hatten.\nContext:341 George Street, Sydney ist ein denkmalgeschütztes Bankgebäude in der 341 George Street, im zentralen Geschäftsviertel von Sydney, in der Stadt von Sydney, New South Wales, Australien. Es wurde von 1927 bis 1932 erbaut und beherbergte den Hauptsitz der Bank of New South Wales und später Westpac. Es ist auch als Westpac Bank Gebäude und Bank of NSW Gebäude bekannt. Westpac verkaufte das Gebäude 2002, vermietet aber weiterhin die unteren Stockwerke als Bankkammern. Die oberen Stockwerke werden von anderen Mietern gemietet.  Es wurde am 2. April 1999 in das State Heritage Register von New South Wales aufgenommen. Das Gebäude diente als Hauptsitz der Bank of New South Wales, bis es 1970 auf 60 Martin Place verlegt wurde.",
+  "pybot": "The doctor or coroner gives you the medical certificate; then you register the death at the local register office, within five days in England and Wales. Take that certificate, their birth certificate and NHS number. You leave with the death certificates for the bank and insurers, and a Tell Us Once code that tells the tax office, council and benefits at once. Scotland and Northern Ireland differ, so ask the register office.",
+  "pybot_module": "answers",
+  "judged": false
+ },
+ {
+  "id": 53,
+  "language": "de",
+  "dataset": "CohereLabs/aya_evaluation_suite (dolly_machine_translated, deu)",
+  "prompt": "Sagen Sie mir, was laut diesem Absatz das aufregendste Sportereignis der Universität ist.\nContext:Im Jahr 2019 gewann der Virginia-Männer-Basketball die NCAA-Meisterschaft in \"March Madness\", dem nationalen College-Basketball-Turnier mit einer einzigen Eliminierung, das von YouGov als das aufregendste Collegiate-Sport-Event angesehen wurde. Im Jahr 2015, als Virginia zum ersten Mal den Capital One Cup gewann, gewannen seine Teams den 2014 College Cup, die 2015 College World Series und die 2015 NCAA Tennis Championships. Als es die Leistung im Jahr 2019 wiederholte, gewann das Programm sowohl den March Madness als auch die Meisterschaft 2019 in Lacrosse.",
+  "pybot": "Hi Jahr — richmond.",
+  "pybot_module": "answers",
+  "judged": false
+ },
+ {
+  "id": 54,
+  "language": "de",
+  "dataset": "CohereLabs/aya_evaluation_suite (dolly_machine_translated, deu)",
+  "prompt": "Sagen Sie mir, wo Drangajökull liegt.\nContext:Drangajökull (ausgesprochen [ˈtrauŋkaˌjœːkʏtl<unk>], regional auch [ˈtraŋk-]) ist der nördlichste Gletscher Islands. Es liegt südwestlich der Halbinsel Hornstrandir in der Region Westfjorden. Der Gletscher erstreckt sich über eine Fläche von 160 <unk> 200 km2 (62 <unk> 77 sq mi), in einer Höhe von bis zu 925 m (3,035 ft). Es ist der einzige isländische Gletscher, der vollständig unter einer Höhe von 1000 Metern liegt und auch der einzige, der in den letzten Jahren nicht geschrumpft ist.",
+  "pybot": "Use the official rank at the airport rather than anyone who approaches you inside, and check the app price or the posted fare before you get in. Insist on the meter, or agree the total first, and keep small notes so you are not waiting for change.",
+  "pybot_module": "answers",
+  "judged": false
+ },
+ {
+  "id": 56,
+  "language": "de",
+  "dataset": "CohereLabs/aya_evaluation_suite (dolly_machine_translated, deu)",
+  "prompt": "Wo liegen die Himalaya?\nContext:Der Himalaya oder Himalaya (/ˌhɪməˈleɪ.ə, hɪˈmɑːləjə/; Sanskrit: [ɦɪmaːlɐjɐ]; aus dem Sanskrit himá 'Schnee, Frost' und ā-laya 'Wohnung, Wohnort'), ist eine Bergkette in Asien, die die Ebenen des indischen Subkontinents von der tibetischen Hochebene trennt. In diesem Gebirge befinden sich einige der höchsten Gipfel des Planeten, darunter der höchste, der Mount Everest. Über 100 Gipfel, die über 7.200 m hoch sind, liegen im Himalaya.",
+  "pybot": "Hi Himalaya — edmund Hillary and Tenzing Norgay were the first to reach the top of Everest, on 29 May 1953, at the end of the British expedition. Tenzing was a Sherpa climber from Nepal and the two of them stopped about fifteen minutes at the summit.",
+  "pybot_module": "answers",
+  "judged": false
+ },
+ {
+  "id": 59,
+  "language": "de",
+  "dataset": "CohereLabs/aya_evaluation_suite (dolly_machine_translated, deu)",
+  "prompt": "Welches Shakespeares Stück hat West Side Story inspiriert?\nContext:\"West Side Story ist ein Musical von Jerome Robbins mit Musik von Leonard Bernstein, Texten von Stephen Sondheim und einem Buch von Arthur Laurents.  Inspiriert von William Shakespeares Stück Romeo und Julia spielt die Geschichte Mitte der 1950er Jahre in der Upper West Side von Manhattan in New York City, damals ein multirassionales Arbeiterviertel. Das Musical untersucht die Rivalität zwischen den Jets und den Sharks, zwei Straßenbanden von Teenagern unterschiedlicher ethnischer Herkunft. Die Sharks, jüngste Einwanderer aus Puerto Rico, und die Jets, die weiß sind, wetteifern um die Dominanz in der Nachbarschaft, und die Polizei versucht, die Ordnung aufrechtzuerhalten. Der junge Protagonist, Tony, ein ehemaliges Mitglied der Jets und bester Freund des Anführers der Bande, Riff, verliebt sich in Maria, die Schwester von Bernardo, dem Anführer der Haie. Das düstere Thema, die anspruchsvolle Musik, die ausgedehnten Tanzszenen, die tragische Liebesgeschichte und der Fokus auf soziale Probleme waren ein Wendepunkt im Musiktheater\".",
+  "pybot": "Hi Musiktheater — new York is great with children who can keep going: the parks, the Natural History Museum and the Staten Island ferry are cheap days out. Most subway stations have no lift, so plan the stroller around buses and taxis.",
+  "pybot_module": "answers",
+  "judged": false
+ }
+]
